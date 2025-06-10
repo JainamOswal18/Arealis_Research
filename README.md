@@ -226,7 +226,6 @@ synthetic_samples = synth.sample(1000)
 
 This architecture enables ForesightFlow to deliver 15% higher forecast accuracy than industry benchmarks while maintaining <100ms API latency during peak loads[^16][^20].
 
-<div style="text-align: center">⁂</div>
 
 [^2]: https://tryolabs.com/guides/retail-innovations-machine-learning
 
